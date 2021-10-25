@@ -3,4 +3,4 @@
 
  
 
-<a href="https://viniciusm0raes.github.io/projeto-android/index.html"> Desafio Responsivo - Projeto Android</a>
+<a href="https://viniciusm0raes.github.io/projeto-android/index.html" target="_blank" rel="external"> Desafio Responsivo - Projeto Android</a>
